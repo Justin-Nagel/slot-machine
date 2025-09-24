@@ -57,6 +57,3 @@ Clone this repository or download it as a `.zip`.
 3. Launch the game, place your bets, and enjoy! 🎉
 
 ---
-
-## 🚀 Example Gameplay
-
